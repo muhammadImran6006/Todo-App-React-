@@ -1,4 +1,4 @@
-# React Todo App - Dark Blue Theme
+# React Todo App 
 
 A modern and attractive **Todo Application** built with **React**. This app uses a **dark theme with blue accents** for a sleek look and includes all the core features of a Todo list — adding, completing, and deleting tasks.
 
